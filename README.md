@@ -6,21 +6,21 @@ Script was tested on Ubuntu 14.04 only.
 ## How to use
 In terminal type:
 
-'''
-sudo ./install.sh
-'''
+```
+$ sudo ./install.sh
+```
 
 Then wait for script to finish.
 Now you can use ROS and V-REP with ros plugin.
 
 To run V-REP type
-'''
-vrep
-'''
+```
+$ vrep
+```
 More info about V-REP usage can be found in [documentation](http://www.coppeliarobotics.com/helpFiles/)
 
 To run ROS type
-'''
-roscore
-'''
+```
+$ roscore
+```
 More info about ROS usage can be found in [documentation](http://www.coppeliarobotics.com/helpFiles/)
