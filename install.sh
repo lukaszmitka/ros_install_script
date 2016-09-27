@@ -38,3 +38,4 @@ source /opt/ros/jade/setup.bash
 catkin_make
 
 cp -v /usr/share/vrep/programming/ros_packages/catkin_vrep/devel/lib/libv_repExtRos.so /usr/share/vrep/libv_repExtRos.so
+chmod -R a+x /usr/share/vrep/*
